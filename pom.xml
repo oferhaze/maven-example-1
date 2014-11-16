@@ -6,7 +6,7 @@
 
   <groupId>org.scalamacros</groupId>
   <artifactId>maven-example</artifactId>
-  <version>1.0.x-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
