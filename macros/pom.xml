@@ -12,6 +12,6 @@
   <parent>
     <groupId>org.scalamacros</groupId>
     <artifactId>maven-example</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.x-SNAPSHOT</version>
   </parent>
 </project>
