@@ -4,12 +4,12 @@
 
   <groupId>org.scalamacros</groupId>
   <artifactId>macros</artifactId>
-  <version>1.0.5-SNAPSHOT</version>
+  <version>1.0.6-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <parent>
     <groupId>org.scalamacros</groupId>
     <artifactId>maven-example</artifactId>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.6-SNAPSHOT</version>
   </parent>
 </project>
